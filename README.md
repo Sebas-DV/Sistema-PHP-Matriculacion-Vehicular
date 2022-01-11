@@ -1,4 +1,4 @@
-# Sistema-PHP-Matriculacion-Vehicular
+# Sistema PHP de Matriculacion Vehicular
 
 Sistema desarrollado para web con bajo licencia MIT:
 
