@@ -1,0 +1,26 @@
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
+.cont-main{
+  margin-top: 115px;
+}
+.cont-t{
+  text-align: center;
+}
+.cont-t hr{
+  border: 1px solid black;
+}
+.form-control{
+  height: 30px !important;
+}
+.menssage-error{
+  text-align: center;
+  margin-bottom: 5px;
+}
+.menssage-error h3{
+  color:  #f08512;
+}
